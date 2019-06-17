@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "apollo-server": "^2.6.3",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "graphql": "^14.3.1",
+    "mongoose": "^5.6.0"
+  }
+}
